@@ -8,7 +8,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-[Карты American Express. не воспринимаются валидатором](https://github.com/Machnev999/home-java-1.1/issues/1)
+* [Карты American Express. не воспринимаются валидатором](https://github.com/Machnev999/home-java-1.1/issues/1)
 
 
 ## Описание процесса тестирования
