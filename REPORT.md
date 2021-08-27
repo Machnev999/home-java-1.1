@@ -18,7 +18,7 @@
 
 В качестве тестовых данных использовались данные сайта:
 
-https://www.getcreditcardnumbers.com/
+* https://www.getcreditcardnumbers.com/
 
 
 
